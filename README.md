@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MartinLeDev
 - 👀 I’m interested in Developping
 - 🌱 I’m currently learning database
-- 😄 Pronouns: He/Il
-- ⚡ Fun fact: Rien
+- 😄 Pronouns: He
 
 <!---
 MartinLeDev/MartinLeDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
