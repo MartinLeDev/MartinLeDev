@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MartinLeDev
 - 👀 I’m interested in Developping
 - 🌱 I’m currently learning database
-- 📫 How to reach me : @wmartin__ on Discord
-- 😄 Pronouns: He/Il/Capybara
+- 😄 Pronouns: He/Il
 - ⚡ Fun fact: Rien
 
 <!---
