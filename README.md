@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartinLeDev
 - 👀 I’m interested in Developping
-- 🌱 I’m currently learning database
+- 🌱 I want to learn React
 - 😄 Pronouns: He
 
 <!---
