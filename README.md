@@ -31,11 +31,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+<img src="https://nestjs.com/img/logo-small.svg" height="40" alt="NestJS"/>
 </div>
-
-
----
-
-<p align="center">
-  🔗 <a href="https://wmartin.me" target="_blank"><strong>wmartin.me</strong></a>
-</p>
